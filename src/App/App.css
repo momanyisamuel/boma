@@ -1,0 +1,7 @@
+@import "~antd/dist/antd.css";
+body {
+  font-family: "Inter", sans-serif;
+}
+a {
+  color: inherit;
+}
